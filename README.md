@@ -2,10 +2,6 @@
 
 A responsive browser-based memory game with six Human Resources themes: HRIS, recruiting, payroll, benefits, learning, and employee engagement.
 
-## Play
-
-[Play HR Memory Match](https://catherineespejo.github.io/hr-memory-game/)
-
 ## Features
 
 - Twelve shuffled cards with six matching pairs
